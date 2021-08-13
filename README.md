@@ -1,7 +1,7 @@
 ### Hi <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="30px"> I'm Shreyash Muktalkar
 
 ### Android Developer | Java Developer | ML Enthusiast:
-I'm Shreyash Muktalkar from Mumbai, India. I'm pursuing BE in Computer Engineering. I like  Playing Games, Playing Cricket, Listening horror story etc.
+I'm Shreyash Muktalkar from Mumbai, India. I'm pursuing BE in Computer Engineering. I like  Playing Games, Playing Cricket, Listening horror stories etc.
 
 
 
